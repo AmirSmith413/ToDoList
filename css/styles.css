@@ -1,0 +1,14 @@
+body{
+    background: url(/images/Both.png);
+    background-size: 100% auto;
+}
+* {
+    color: azure;
+}
+.strike{
+    text-decoration: line-through;
+    color: black;
+}
+ol,li,h1,button{
+    font-family: 'Special Elite', cursive;
+}
